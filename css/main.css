@@ -111,7 +111,7 @@ body > .row.main-row {
 }
 
 body > .row > [class*='coffee-span-'].map-column {
-  background-image: url('../images/Europa.PNG');
+  background-image: url('../images/Frankrijk.PNG');
   background-size: contain;
   background-repeat: no-repeat;
 }
